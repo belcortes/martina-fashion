@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CONTACT
-permalink: /about/
+permalink: /contact/
 ---
 
 Contact content
